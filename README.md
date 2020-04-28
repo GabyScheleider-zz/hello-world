@@ -1,2 +1,2 @@
-# hello-world
- Repositório de aprendizagem
+# Hello world
+ Repositório de aprendizagem com Gustavo Guanabara
